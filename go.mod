@@ -11,7 +11,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/justinas/alice v1.2.0
 	github.com/lib/pq v1.10.2
-	github.com/peterbourgon/ff/v3 v3.1.0
+	github.com/peterbourgon/ff/v3 v3.1.1
 	github.com/pkg/errors v0.9.1
 	github.com/rs/zerolog v1.24.0
 	golang.org/x/net v0.0.0-20210825183410-e898025ed96a // indirect
